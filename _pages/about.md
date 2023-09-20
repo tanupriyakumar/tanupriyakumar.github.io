@@ -9,15 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+My research encompasses two key aspects: exploring sequence-function relationships of enzymes using high-throughput approaches for protein characterization and leveraging machine learning to develop quantifiable models for enzyme stability and activity. By combining these approaches, I aim to understand the sequence-function relationships of enzymes in greater depth, unraveling the intricacies that govern their behavior and performance. This deeper understanding will not only expand our knowledge of enzyme functionality but also pave the way for the creation of highly optimized and tailored enzymes for a wide range of applications.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
