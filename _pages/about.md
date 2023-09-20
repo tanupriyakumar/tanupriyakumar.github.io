@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <b>Graduate Student. Rocklin Lab. Northwestern University.
+subtitle:  <strong>Graduate Student.</strong> Rocklin Lab. Northwestern University.
 
 profile:
   align: right
