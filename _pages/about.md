@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle:  <strong>Graduate Student.</strong> Rocklin Lab. Northwestern University.
 
