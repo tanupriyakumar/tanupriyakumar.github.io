@@ -9,3 +9,10 @@ description: This is a description of the page. You can modify it in 'pages/_cv.
 toc:
   sidebar: left
 ---
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Tanu Priya
+    - name: Languages
+      value: English, Hindi
