@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: </em>Published projects I have been part of:</em> 
+description: <em>Published projects I have been part of:</em> 
 nav: true
 nav_order: 1
 ---
