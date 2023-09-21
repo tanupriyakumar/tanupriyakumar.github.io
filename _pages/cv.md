@@ -1,4 +1,5 @@
 ---
+This page will be removed
 layout: cv
 permalink: /cv/
 title: cv
