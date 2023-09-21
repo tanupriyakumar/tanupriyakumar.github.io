@@ -1,4 +1,5 @@
 ---
+This page will be removed from my website
 layout: page
 permalink: /teaching/
 title: teaching
