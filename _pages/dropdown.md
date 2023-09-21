@@ -2,7 +2,7 @@
 This page will be removed
 layout: page
 title:
-nav: true
+nav: false
 nav_order: 6
 dropdown: false
 children:
